@@ -8,6 +8,7 @@
   .time-display {
     font-size: 3em;
     margin-bottom: 20px;
+    color: #007bff;
   }
   
   .buttons button {
@@ -51,5 +52,4 @@
     cursor: not-allowed;
   }
 
-  
   
